@@ -8,10 +8,10 @@ ckpt/
 │   ├── convnext_tiny.pth
 │   ├── convnext_small.pth
 │   └── convnext_base.pth
-├── trained/
-│   ├── GSSDENet/
-│   │   └── ResNet101-200.pth
-│   ├── GSSDENet-S/
-│   │   ├── ResNet101-200.pth
-│   │   └── ConvNeXtB-200.pth
+└── trained/
+    ├── GSSDENet/
+    │   └── ResNet101-200.pth
+    └── GSSDENet-S/
+        ├── ResNet101-200.pth
+        └── ConvNeXtB-200.pth
 ```
