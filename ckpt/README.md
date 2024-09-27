@@ -1,4 +1,4 @@
-### ckpt
+## ckpt
 The initial arrangement of the `ckpt` folder is as follows:
 ```
 ckpt/
