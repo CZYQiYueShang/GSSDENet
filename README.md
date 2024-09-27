@@ -25,6 +25,15 @@ pip install -r requirements.txt
 
 ### Model
 Place models in the `ckpt` folder.
+#### Pretrained Models
+| Name | Download |
+|:----:|:---:|
+| ResNet-50 | [Google Drive](https://drive.google.com/file/d/1PtlVlHc5-pU4AlfuWFOsd9H5LGuAbs5T/view?usp=sharing) |
+| ResNet-101 | [Google Drive](https://drive.google.com/file/d/1PdOIvflcAiEK7oJatc_OPtS_8Bk328lm/view?usp=sharing) |
+| ConvNeXt-T | [Google Drive](https://drive.google.com/file/d/1oLCI2xn7J1oKyNaLams2_5AMKnqURTKg/view?usp=sharing) |
+| ConvNeXt-S | [Google Drive](https://drive.google.com/file/d/1Mz66j_8r8h1p5gFqVFYZqrX1jIXLN86A/view?usp=sharing) |
+| ConvNeXt-B | [Google Drive](https://drive.google.com/file/d/1o6uxGOB6Smj14Ka8QE7smjDGi75RECC6/view?usp=sharing) |
+#### Trained Models
 | Network | Backbone | Download |
 |:---------------|:----:|:---:|
 | GSSDENet-S | ResNet-101 | [Google Drive](https://drive.google.com/file/d/1Ua1IoDuiJlu4A8VOxnbB919gtMGJk3CQ/view?usp=sharing) |
