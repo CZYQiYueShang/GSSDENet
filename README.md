@@ -13,7 +13,7 @@ dataset/
 ├── GW-Depth/
 ├── GSD.py
 ├── GWDepth.py
-├── __init__.py
+└── __init__.py
 ```
 
 ### Requirements
