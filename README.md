@@ -9,7 +9,6 @@ In modern indoor scenes, glass surfaces such as glass walls and windows are ubiq
 Please download from the corresponding pages of [GDD](https://github.com/Mhaiyang/CVPR2020_GDNet) and [GW-Depth](https://github.com/ViktorLiang/GW-Depth) and put them in the `dataset` folder like:
 ```
 dataset/
-│
 ├── GDD/
 ├── GW-Depth/
 ├── GSD.py
